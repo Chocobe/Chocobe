@@ -7,10 +7,10 @@
 #### Skill
 
 * 언어: <img src="https://img.shields.io/badge/Javascript----blue"> <img src="https://img.shields.io/badge/Typescript----blue">
-* 프레임워크: <img src="https://img.shields.io/badge/Vue-2-red"> <img src="https://img.shields.io/badge/Vue-3-red">
-* 비동기처리: <img src="https://img.shields.io/badge/RxJS----orange">
-* 테스트유닛: <img src="https://img.shields.io/badge/Jest----orange"> <img src="https://img.shields.io/badge/VueTestUtils----orange">
-* 비전개발: <img src="https://img.shields.io/badge/Canvas----orange">
+* 프레임워크: <img src="https://img.shields.io/badge/Vue-2-brightgreen"> <img src="https://img.shields.io/badge/Vue-3-brightgreen">
+* 비동기처리: <img src="https://img.shields.io/badge/RxJS----green">
+* 테스트유닛: <img src="https://img.shields.io/badge/Jest----red"> <img src="https://img.shields.io/badge/VueTestUtils----red">
+* 비전개발: <img src="https://img.shields.io/badge/Canvas----lightgrey">
 
 #### 경력 (2년차)
 
