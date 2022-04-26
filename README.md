@@ -4,6 +4,8 @@
 * 🤗 ``Vue`` 와 ``Typescript`` 를 좋아합니다.
 * 😎 ``HTMLCanvas API`` 에 큰 관심이 있고, 스터디 중 입니다 !
 
+<br />
+
 ### Skill
 
 * 언어: <img src="https://img.shields.io/badge/Javascript----blue"> <img src="https://img.shields.io/badge/Typescript----blue">
@@ -12,10 +14,14 @@
 * 테스트유닛: <img src="https://img.shields.io/badge/Jest----red"> <img src="https://img.shields.io/badge/VueTestUtils----red">
 * 비전개발: <img src="https://img.shields.io/badge/Canvas----lightgrey">
 
+<br />
+
 ### 경력 (2년차)
 
 * Deepntarual: 2021. 08 ~ 재직중
 * 제르메스: 2020. 04 ~ 2021. 04 (1년)
+
+<br />
 
 ### 최근 관심사
 
