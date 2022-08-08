@@ -2,7 +2,7 @@
 
 * 🏙 Deepnatural 에서 Front-End 를 담당하며, ``데이터 가공 작업도구`` 를 개발하고 있습니다.
 * 🤗 ``Vue`` 와 ``Typescript`` 를 좋아합니다.
-* 😎 ``HTMLCanvas API`` 에 큰 관심이 있고, 스터디 중 입니다 !
+* 😎 ``HTMLCanvas API`` 에 관심이 있고, 스터디 중 입니다.
 
 <br />
 
