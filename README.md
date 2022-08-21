@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chocobe&show_icons=true&theme=radical)
+
 ### 안녕하세요! Front-End 주니어 개발자 입니다. 👋
 
 * 🏙 Deepnatural 에서 Front-End 를 담당하며, ``데이터 가공 작업도구`` 를 개발하고 있습니다.
