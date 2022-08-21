@@ -1,5 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chocobe&show_icons=true&theme=radical)
-
 ### 안녕하세요! Front-End 주니어 개발자 입니다. 👋
 
 * 🏙 Deepnatural 에서 Front-End 를 담당하며, ``데이터 가공 작업도구`` 를 개발하고 있습니다.
@@ -16,6 +14,8 @@
 * 테스트유닛: <img src="https://img.shields.io/badge/Jest----red"> <img src="https://img.shields.io/badge/VueTestUtils----red">
 * 비전개발: <img src="https://img.shields.io/badge/Canvas----lightgrey">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chocobe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 
 ### 경력 (2년차)
@@ -29,4 +29,6 @@
 ### 최근 관심사
 
 * ``React`` 에 관심이 있으며, 스터디 중 입니다.
-* 범용적인 컴포넌트는 어떻게 만드는가 에 대해 큰 관심을 갖고 있습니다.
+* 로직과 UI 의 분리 방법을 찾는 중 입니다.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chocobe&show_icons=true&theme=radical)
