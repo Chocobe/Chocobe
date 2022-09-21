@@ -4,7 +4,7 @@
     * ``Vue 2`` 환경의 작업도구 개발
     * ``React`` 환경의 작업도구 개발
 * 🤗 ``React`` 와 ``Typescript`` 를 좋아합니다.
-* 😎 ``HTMLCanvas API`` 에 관심이 있고, 스터디 중 입니다.
+* 😎 ``NextJS`` 에 관심이 있고, 스터디 중 입니다.
 * 🤔 요즘은 코드의 가독성 & 전달력 을 높일 수 있도록 ``Custom Hook (React)``, ``Composable (Vue)`` 설계에 대해서 많은 갈증을 느낍니다.
 
 <br />
