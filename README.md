@@ -31,7 +31,7 @@
 
 ### 최근 관심사
 
-* ``React`` 에 관심이 있으며, 스터디 중 입니다.
+* ``Nextjs`` 에 관심이 있으며, 스터디 중 입니다.
 * 로직과 UI 의 분리 방법을 찾는 중 입니다.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chocobe&show_icons=true&theme=radical)
