@@ -15,7 +15,7 @@
 * 프레임워크: <img src="https://img.shields.io/badge/Vue-2-brightgreen"> <img src="https://img.shields.io/badge/Vue-3-brightgreen"> <img src="https://img.shields.io/badge/React----brightgreen">
 * 비동기처리: <img src="https://img.shields.io/badge/RxJS----green">
 * 테스트유닛: <img src="https://img.shields.io/badge/Jest----red"> <img src="https://img.shields.io/badge/VueTestUtils----red">
-* 비전개발: <img src="https://img.shields.io/badge/Canvas----lightgrey">
+* 비전개발: <img src="https://img.shields.io/badge/Canvas----lightgrey"> <img src="https://img.shields.io/badge/SVG----lightgrey">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chocobe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
