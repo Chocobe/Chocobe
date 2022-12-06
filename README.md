@@ -21,7 +21,7 @@
 
 <br />
 
-### 경력 (2년차)
+### 경력 (3년차)
 
 * Deepntarual: 2021. 08 ~ 재직중
   * [[-Project-study-time-checking]](https://github.com/Chocobe/-Project-study-time-checking) 토이 프로젝트: 2022. 05. 10 ~ 2022. 05.29
