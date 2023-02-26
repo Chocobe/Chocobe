@@ -1,11 +1,12 @@
 ### 안녕하세요! Front-End 주니어 개발자 입니다. 👋
 
-* 🏙 Deepnatural 에서 Front-End 를 담당하며, ``데이터 가공 작업도구`` 를 개발하고 있습니다.
-    * ``Vue 2`` 환경의 작업도구 개발
-    * ``NextJS`` 환경의 작업도구 개발
-* 🤗 ``React`` 와 ``Typescript`` 를 좋아합니다.
-* 😎 ``React`` 와 ``NextJS`` 에 관심이 있고, 스터디 중 입니다.
-* 🤔 요즘은 코드의 가독성 & 전달력 을 높일 수 있도록 ``Custom Hook (React)``, ``Composable (Vue)`` 설계에 대한 고민중 입니다.
+* 🏙 Deepnatural 에서 Front-End 를 담당하며, `데이터 가공 작업도구` 와 `신규 서비스` 를 개발하고 있습니다.
+    * `NextJS` 환경의 신규 서비스 개발
+    * `NextJS` 환경의 작업도구 개발
+    * `Vue 2` 환경의 작업도구 개발
+* 🤗 `React` 와 `Typescript` 를 좋아합니다.
+* 😎 `React` 와 `NextJS` 에 관심이 있고, 스터디 중 입니다.
+* 🤔 요즘은 코드의 가독성 & 전달력 을 높일 수 있도록 `Custom Hook (React)`, `Composable (Vue)` 설계에 대한 고민중 입니다.
 
 <br />
 
