@@ -1,5 +1,10 @@
 ### 안녕하세요! Front-End 주니어 개발자 입니다. 👋
 
+* Nextjs 스터디중 입니다. 
+* Nextjs 참고 자료의 저작권에 의해, 당분간 `Github` 대신 `Notion` 을 활용합니다.
+
+<br />
+
 * 🏙 Deepnatural 에서 Front-End 를 담당하며, `데이터 가공 작업도구` 와 `신규 서비스` 를 개발하고 있습니다.
     * `NextJS` 환경의 신규 서비스 개발
     * `NextJS` 환경의 작업도구 개발
