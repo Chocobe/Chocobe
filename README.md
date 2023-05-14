@@ -42,9 +42,8 @@ Deepntarual: 2021. 08 ~ 재직중
         * `인증 Token` 상태 관리
         * `i18next` 와 `Google Spreadsheet` 를 사용한 `다국어`
         * `styled-components` 에 `디자인 시스템` 적용
-        * UI 컴포넌트 일부 구현 (부분 테마 적용)
-        * `reducer` 중첩 기능
         * `Github actions` 를 사용한 `CI/CD`
+        * 매인 서비스 구현 중
     ---
 2. **모바일 광고 메시지 수집 작업도구 구현**
     * 텍스트를 수집하는 작업도구 입니다.
