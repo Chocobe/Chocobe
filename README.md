@@ -1,14 +1,17 @@
 ### 안녕하세요! Front-End 주니어 개발자 입니다. 👋
 
-* Nextjs 스터디중 입니다. 
-* Nextjs 참고 자료의 저작권에 의해, 당분간 `Github` 대신 `Notion` 을 활용합니다.
+* Nextjs 를 메인 프레임워크로 개발중 입니다.
+* Nextjs 스터디는 참고 자료의 저작권에 의해, 당분간 `Github` 대신 `Notion` 을 활용합니다. (비공개)
 
 <br />
 
-* 🏙 Deepnatural 에서 Front-End 를 담당하며, `데이터 가공 작업도구` 와 `신규 서비스` 를 개발하고 있습니다.
+* 🏙 Deepnatural 에서 Front-End 를 담당하고 있습니다.
     * `NextJS` 환경의 신규 서비스 개발
-    * `NextJS` 환경의 작업도구 개발
-    * `Vue 2` 환경의 작업도구 개발
+        * 생성형 AI 서비스, `Lave` 프로젝트를 개발중 입니다.
+        * 학습 데이터 구축을 위한 `레이블러 콘솔 v2` 를 개발 (`Lave` 개발을 위해 개발 중지 상태)
+    * `데이터 가공 작업도구` 개발
+        * `NextJS` 환경의 작업도구 개발
+        * `Vue 2` 환경의 작업도구 개발
 * 🤗 `React` 와 `Typescript` 를 좋아합니다.
 * 🤔 요즘은 코드의 가독성 & 전달력 을 높일 수 있도록 `Custom Hook (React)`, `Composable (Vue)` 설계에 대한 고민중 입니다.
 
@@ -19,6 +22,7 @@
 * 언어: <img src="https://img.shields.io/badge/Javascript----blue"> <img src="https://img.shields.io/badge/Typescript----blue">
 * 프레임워크: <img src="https://img.shields.io/badge/Vue-2-brightgreen"> <img src="https://img.shields.io/badge/Vue-3-brightgreen"> <img src="https://img.shields.io/badge/React----brightgreen"> <img src="https://img.shields.io/badge/Nextjs----brightgreen">
 * 비동기처리: <img src="https://img.shields.io/badge/RxJS----green">
+* 다국어: <img src="https://img.shields.io/badge/i18next----ff1493">
 * 테스트유닛: <img src="https://img.shields.io/badge/Jest----red"> <img src="https://img.shields.io/badge/VueTestUtils----red">
 * 비전개발: <img src="https://img.shields.io/badge/Canvas----lightgrey"> <img src="https://img.shields.io/badge/SVG----lightgrey">
 
@@ -32,7 +36,7 @@
 
 <br />
 
-### 경력 (3년차)
+### 경력 (4년차)
 
 ### Deepntarual: 2021. 08 ~ 재직중
 
@@ -40,28 +44,47 @@
 
 <br />
 
-1. **(진행중) 신규 서비스 구현**
+1. **(개발중) 신규 서비스, `Lave`**
+    * [Lave 링크: https://lave.ai](https://lave.ai)
+    * 생성형 AI 서비스
+        * 챗봇 서비스
+        * 한복 프로필 이미지 생성 서비스
+    * 프레임워크: `Nextjs`
+    * 상태관리: `@reduxjs/toolkit`, `redux-saga`
+    * 스타일시트: `styled-components`
+    * UI 프레임워크: `@chakra-ui`
+    * 현재 구현된 기능
+        * 새로운 상태관리 구조 고안 및 적용
+            * API state: `Redux`
+            * Layout state: `React Context API`
+        * `Google Oauth2` 연동 및 `인증 Token` 상태 관리
+        * `i18next` 와 `dayjs` 연동으로 다국어 지원 기능 강화
+        * `redux-saga` 를 사용하여 주기적인 데이터 조회 `polling` 기능 구현
+        * `Google Analytics 4` 연동
+        * 챗봇 서비스 개발 완료 및 출시
+   ---
+2. **(개발중지) 신규 서비스, `레이블러 콘솔 v2` 구현**
     * 신규 서비스를 구현하며, 장기적으로는 기존의 `Vue2` 플랫폼의 마이그레이션 까지 예정 입니다.
     * 프레임워크: `Nextjs`
     * 상태관리: `@reduxjs/toolkit`, `redux-saga`
     * 스타일시트: `styled-components`
     * UI 프레임워크: `@chakra-ui`
     * 현재 구현된 기능
+        * 서버 응답에 따라 동적으로 입력 요소 렌더링
         * 중첩 레이아웃 및 레이아웃 조합
-        * `인증 Token` 상태 관리
+        * `accessToken` 및 `refreshToken` 을 활용한 세션 유지
         * `i18next` 와 `Google Spreadsheet` 를 사용한 `다국어`
         * `styled-components` 에 `디자인 시스템` 적용
         * `Github actions` 를 사용한 `CI/CD`
-        * 매인 서비스 구현 중
     ---
-2. **모바일 광고 메시지 수집 작업도구 구현**
+3. **모바일 광고 메시지 수집 작업도구 구현**
     * 텍스트를 수집하는 작업도구 입니다.
     * 프레임워크: `Nextjs`
     * 주요 기능
         * 텍스트 입력
         * 유형 카테고리 선택 (예: 통신사, 보험)
     ---
-3. **심전도 그래프 라벨링 작업도구 구현**
+4. **심전도 그래프 라벨링 작업도구 구현**
     * 심전도 그래프 라벨링 작업도구 입니다.
     * 프레임워크: `Vue2`
     * 주요 기능
@@ -73,7 +96,7 @@
         * 그래프 `X축` 이동
         * 그리드 배경
     ---
-4. **이미지 수집 작업도구 구현**
+5. **이미지 수집 작업도구 구현**
     * 복수의 사진 업로드 작업도구 입니다.
     * 프레임워크: `Nextjs`
     * 주요 기능
@@ -82,7 +105,7 @@
         * 업로드 실패 시, 해당 이미지들만 일괄 재업로드
         * 모든 이미지 업로드 완료 시, 제출 가능
     ---
-5. **기계독해 작업도구 구현**
+6. **기계독해 작업도구 구현**
     * 숫자, 날짜 연산 및 원문의 특정 택스트 추출 작업도구 입니다.
     * 프레임워크: `Vue2`
     * 주요 기능
@@ -92,20 +115,20 @@
         * 원문 클릭 시, `완전한 문장` 으로 추출
         * 원문에 존재하는 모든 숫자에 `하이라이트`
     ---
-6. **`Canvas API` 를 이용한 `Line` 기능 추가**
+7. **`Canvas API` 를 이용한 `Line` 기능 추가**
     * `Canvas API` 로 구현된 작업도구에 `Line` 을 그리는 기능을 추가 하였습니다.
     * 프레임워크: `Vue2`
     * 주요 기능
         * `Line` 의 좌표값 추출
         * 확대/축소 에 대한 좌표값 보정
     ---
-7. **작업도구 공용 단축키 구현 (제출, 검수, 반려, 보류 등..)**
+8. **작업도구 공용 단축키 구현 (제출, 검수, 반려, 보류 등..)**
     * `Rxjs` 를 사용하여 observer 패턴 사용
     * 프레임워크: `Vue2`
     * 주요 기능
         * 상황별 단축키 Observer 구독 및 해제
     ---
-8. **감성분류2 작업도구 구현**
+9. **감성분류2 작업도구 구현**
     * 화자의 발화에 대하여 어떠한 감성인지 분류하는 작업도구 입니다.
     * 프레임워크: `Vue2`
     * 주요 기능
@@ -116,7 +139,7 @@
         * 선택한 발화가 화면 중앙에 위치하도록 자동 스크롤 이동
         * 감성 분류가 누락될 시, 제출 불가
     ---
-9. **감성분류1 작업도구 구현**
+10. **감성분류1 작업도구 구현**
     * 원문의 부분 택스트에 태그를 하여, 해당 텍스트의 `태그`, `텍스트`, `start/end index` 를 추출하는 작업도구 입니다.
     * 프레임워크: `Vue2`
     * 주요 기능
@@ -126,7 +149,7 @@
             * `start`: 원문 기준, 텍스트의 시작 `index`
             * `end`: 원문 기준, 텍스트의 끝 `index`
     ---
-10. **문서분류 작업도구 구현**
+11. **문서분류 작업도구 구현**
     * 원문을 읽고, `주제`, `인물`, `조직/기관`, `제품` 에 대한 분류 작업도구 입니다.
     * 프레임워크: `Vue2`
     * 주요 기능
@@ -134,7 +157,7 @@
         * 태그 카테고리는 `통합 태그` 와 `하위 태그` 로 구성되며, `통합 태그` 선택/해제 시, `하위 태그` 일관 선택/해제
         * 각 태그 카테고리의 개수 제한
     ---
-11. **자유대화1 작업도구 구현**
+12. **자유대화1 작업도구 구현**
     * 원문을 읽고, 작업자는 화자 2명의 대화를 창작하는 작업도구 입니다.
     * 프레임워크: `Vue2`
     * 주요 기능
