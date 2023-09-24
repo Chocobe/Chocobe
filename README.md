@@ -45,7 +45,6 @@
 <br />
 
 1. **(개발중) 신규 서비스, `Lave`**
-    * <a href="https://lave.ai" target="_blank">Lave 링크</a>
     * [Lave 링크: https://lave.ai](https://lave.ai)
     * 생성형 AI 서비스
         * 챗봇 서비스
