@@ -2,6 +2,7 @@
 
 * Nextjs 를 메인 프레임워크로 개발중 입니다.
 * Nextjs 스터디는 참고 자료의 저작권에 의해, 당분간 `Github` 대신 `Notion` 을 활용합니다. (비공개)
+* [블로그 v2 (개발중)](https://chocobe.github.io)
 
 <br />
 
@@ -188,8 +189,6 @@
 
 ### 최근 관심사
 
-* ``Nextjs`` 에 관심이 있으며, 스터디 중 입니다.
-* React Hooks 의 `dependencies` 를 솔직하게 구현하는 방식을 고민중 입니다.
-* 로직과 UI 의 분리 방법을 찾는 중 입니다.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chocobe&show_icons=true&theme=radical)
+* ``Nextjs`` 에 관심이 있으며 `SEO` 에 초점을 둔 블로그 개발을 진행하며 SSR, CSR, SSG 를 혼합하여 사용해보고 있습니다.
+* 단일 기능의 Custom Hook 으로 분리하여 구현, 조합하는 방식을 시도중입니다.
+* `Three.js` 스터디를 진행중이며, 3D 인터렉션 블로그 구현을 첫번째 목표로 세웠습니다.
