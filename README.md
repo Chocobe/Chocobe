@@ -16,6 +16,7 @@
 * 🤗 `React` 와 `Typescript` 를 좋아합니다.
 * 🤔 요즘은 코드의 가독성 & 전달력 을 높일 수 있도록 `Custom Hook (React)`, `Composable (Vue)` 설계에 대한 고민중 입니다.
 * 🫠 2024년에는 `Three.js` 스터디와 블로그 Profile 페이지를 3D 로 구현하는 것을 목표중 하나로 선정하였습니다.
+* 🫠 AI 도메인 지식을 쌓기 위해, `Python` 과 `LangChain` 을 스터디 중입니다.
 
 <br />
 
