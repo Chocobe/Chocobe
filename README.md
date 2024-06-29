@@ -1,12 +1,9 @@
 ### 안녕하세요! 4년차 Front-End 개발자 입니다. 👋
 
-* Nextjs 를 메인 프레임워크로 개발중 입니다.
-* Nextjs 스터디는 참고 자료의 저작권에 의해, 당분간 `Github` 대신 `Notion` 을 활용합니다. (비공개)
-* [블로그 v2 (개발중)](https://chocobe.github.io)
-
-<br />
-
 * 🏙 Deepnatural 에서 Front-End 를 담당하고 있습니다.
+    * `LLM no-code tool` 신규 서비스인 `LangNode` 프로젝트를 개발중 입니다.
+        * 유저는 Python 을 알지 못하여도 UI/UX 를 통해 LLM Agent 를 만들 수 있습니다.
+        * `Pipeline` 기능을 사용하면, PDF와 같은 문서들을 유저의 `VectorDB` 에 `Vectorizing` 할 수도 있습니다.
     * `NextJS` 환경의 신규 서비스 개발
         * 생성형 AI 서비스, `Lave` 프로젝트를 개발중 입니다.
         * 학습 데이터 구축을 위한 `레이블러 콘솔 v2` 를 개발 (`Lave` 개발을 위해 개발 중지 상태)
@@ -14,9 +11,10 @@
         * `NextJS` 환경의 작업도구 개발
         * `Vue 2` 환경의 작업도구 개발
 * 🤗 `React` 와 `Typescript` 를 좋아합니다.
-* 🤔 요즘은 코드의 가독성 & 전달력 을 높일 수 있도록 `Custom Hook (React)`, `Composable (Vue)` 설계에 대한 고민중 입니다.
-* 🫠 2024년에는 `Three.js` 스터디와 블로그 Profile 페이지를 3D 로 구현하는 것을 목표중 하나로 선정하였습니다.
+* 🤔 코드의 가독성 & 전달력 을 높일 수 있도록 `Custom Hook (React)`, `Composable (Vue)` 설계에 대한 고민중 입니다.
 * 🫠 AI 도메인 지식을 쌓기 위해, `Python` 과 `LangChain` 을 스터디 중입니다.
+* 🫠 2024년에는 `Three.js` 스터디와 블로그 Profile 페이지를 3D 로 구현하는 것을 목표중 하나로 선정하였습니다.
+    * 3D Website를 저의 주요 스킬셋으로 만들고자 합니다.
 
 <br />
 
