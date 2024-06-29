@@ -25,8 +25,8 @@
 * 비동기처리: <img src="https://img.shields.io/badge/RxJS----green">
 * 다국어: <img src="https://img.shields.io/badge/i18next----ff1493">
 * 테스트유닛: <img src="https://img.shields.io/badge/Jest----red"> <img src="https://img.shields.io/badge/VueTestUtils----red">
-* 비전개발: <img src="https://img.shields.io/badge/Canvas----lightgrey"> <img src="https://img.shields.io/badge/SVG----lightgrey">
 * 다이어그램 툴: <img src="https://img.shields.io/badge/Mermaid.js----f0f400">
+* 비전개발: <img src="https://img.shields.io/badge/Canvas----lightgrey"> <img src="https://img.shields.io/badge/SVG----lightgrey"> <img src="https://img.shields.io/badge/Three.js----lightgrey">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chocobe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
