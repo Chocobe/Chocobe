@@ -3,7 +3,7 @@
 * 🏙 Deepnatural 에서 Front-End 를 담당하고 있습니다.
     * `LLM no-code tool` 신규 서비스인 `LangNode` 프로젝트를 개발중 입니다.
         * 유저는 Python 을 알지 못하여도 UI/UX 를 통해 LLM Agent 를 만들 수 있습니다.
-        * `Pipeline` 기능을 사용하면, PDF와 같은 문서들을 유저의 `VectorDB` 에 `Vectorizing` 할 수도 있습니다.
+        * `Pipeline` 기능을 사용하여, PDF와 같은 문서들을 `Embedding`, `Vectorizing` 등을 할 수도 있습니다.
     * `NextJS` 환경의 신규 서비스 개발
         * 생성형 AI 서비스, `Lave` 프로젝트를 개발중 입니다.
         * 학습 데이터 구축을 위한 `레이블러 콘솔 v2` 를 개발 (`Lave` 개발을 위해 개발 중지 상태)
