@@ -1,4 +1,4 @@
-### 안녕하세요! 4년차 Front-End 개발자 입니다. 👋
+### 안녕하세요! 5년차 Front-End 개발자 입니다. 👋
 
 * 🏙 Deepnatural 에서 Front-End 를 담당하고 있습니다.
     * `LLM no-code tool` 신규 서비스인 `LangNode` 프로젝트를 개발중 입니다.
@@ -38,7 +38,7 @@
 
 <br />
 
-### 경력 (4년차)
+### 경력 (5년차)
 
 ### Deepntarual: 2021. 08 ~ 재직중
 
