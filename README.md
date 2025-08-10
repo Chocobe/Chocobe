@@ -24,7 +24,7 @@
 * 프레임워크: <img src="https://img.shields.io/badge/Vue-2-brightgreen"> <img src="https://img.shields.io/badge/Vue-3-brightgreen"> <img src="https://img.shields.io/badge/React----brightgreen"> <img src="https://img.shields.io/badge/Nextjs----brightgreen">
 * 비동기처리: <img src="https://img.shields.io/badge/RxJS----green">
 * 다국어: <img src="https://img.shields.io/badge/i18next----ff1493">
-* 테스트유닛: <img src="https://img.shields.io/badge/Jest----red"> <img src="https://img.shields.io/badge/VueTestUtils----red">
+* 테스트유닛: <img src="https://img.shields.io/badge/Vitest----red"> <img src="https://img.shields.io/badge/@tessting--library----red">
 * 다이어그램 툴: <img src="https://img.shields.io/badge/Mermaid.js----f0f400">
 * 비전개발: <img src="https://img.shields.io/badge/Canvas----lightgrey"> <img src="https://img.shields.io/badge/SVG----lightgrey"> <img src="https://img.shields.io/badge/Three.js----lightgrey">
 
