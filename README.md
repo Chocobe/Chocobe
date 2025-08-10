@@ -22,7 +22,7 @@
 
 * 언어: <img src="https://img.shields.io/badge/Javascript----blue"> <img src="https://img.shields.io/badge/Typescript----blue">
 * 프레임워크: <img src="https://img.shields.io/badge/Vue-2-brightgreen"> <img src="https://img.shields.io/badge/Vue-3-brightgreen"> <img src="https://img.shields.io/badge/React----brightgreen"> <img src="https://img.shields.io/badge/Nextjs----brightgreen">
-* 상태관리 : <img src="https://img.shields.io/badge/zustand----sky">
+* 상태관리 : <img src="https://img.shields.io/badge/zustand----ff00cc">
 * 함수형 프로그래밍: <img src="https://img.shields.io/badge/RxJS----green">
 * 다국어: <img src="https://img.shields.io/badge/i18next----ff1493">
 * 테스트유닛: <img src="https://img.shields.io/badge/Vitest----red"> <img src="https://img.shields.io/badge/@tessting library----red">
