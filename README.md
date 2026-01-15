@@ -35,6 +35,8 @@
 
 ### 자격증
 
+* Certified Kubernetes Application Developer (CKAD) (2025. 12. 29)
+
 * 정보처리기사 (2019. 8. 16 취득)
 
 <br />
